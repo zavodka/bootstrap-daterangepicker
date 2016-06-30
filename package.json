@@ -3,9 +3,8 @@
   "version": "2.1.23",
   "description": "Date range picker component for Bootstrap",
   "main": "daterangepicker.js",
-  "style": "daterangepicker.css",
+  "style": "",
   "scripts": {
-    "scss": "node-sass daterangepicker.scss > daterangepicker.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
